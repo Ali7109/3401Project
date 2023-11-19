@@ -1,1 +1,2 @@
 vehicles.zip filter=lfs diff=lfs merge=lfs -text
+*.html linguist-documentation
