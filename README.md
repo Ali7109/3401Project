@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting used car prices using machine learning models, specifically a Stacked Regression model. The dataset includes various features such as odometer reading, car model, and manufacturing year.
+This project focuses on predicting used car prices using machine learning models, specifically a Stacked Regression model. The dataset includes various features such as odometer reading, car model, and manufacturing year etc...
 
 ## Project Structure
 
