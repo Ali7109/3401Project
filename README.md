@@ -4,6 +4,8 @@
 
 This project focuses on predicting used car prices using machine learning models, specifically a Stacked Regression model. The dataset includes various features such as odometer reading, car model, and manufacturing year etc...
 
+The dataset that is used can be accessed using the following link: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+
 ## Project Structure
 
 - **data/:** Contains the dataset used for training and testing the models.
